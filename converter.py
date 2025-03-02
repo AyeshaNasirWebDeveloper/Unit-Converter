@@ -91,7 +91,7 @@ def main():
                 unsafe_allow_html=True,
             )
 
-    # Toggle button for dark/light mode at the top right
+    # Toggle button
     col1, col2 = st.columns([9, 1])
     with col1:
         st.title("Unit Converter")
