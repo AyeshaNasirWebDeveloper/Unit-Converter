@@ -42,14 +42,15 @@ Contributions are welcome! If you'd like to improve this app, fork this reposito
 
 # *Contact* 📧
 Have questions or feedback? 
-*Feel free to reach out:
-*
+
+*Feel free to reach out*:
+
 *GitHub*: https://github.com/AyeshaNasirWebDeveloper/
 
 *Linkedln*: https://www.linkedin.com/in/ayeshanasirwin/
 
 # *Live Demo *🌐
-Check out the live app here:
-👉 
+*Check out the live app here:*
+👉 https://modernunitconverter.streamlit.app/
 
 *Enjoy converting units with ease! *🎉
